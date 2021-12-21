@@ -13,7 +13,7 @@ Wir haben uns für MongoDB entschieden weil MongoDB viele gut strukturierte Test
 ### Wie sehen die Daten aus?
 
 Die Daten werden von MongoDB als json Strings zurückgegeben.
-Die Tabellen heissen unter MongoDB "Collections" und unterscheiden sich von herkömmlichen Tabellen in relationalen Datenbanken, indem sie kein Datenstrakturschema vorgeben.
+Die Tabellen heissen unter MongoDB "Collections" und unterscheiden sich von herkömmlichen Tabellen in relationalen Datenbanken, indem sie kein Datenstrukturschema vorgeben.
 
 ### Inwiefern ist das besser als eine relationale Datenbank?
 
